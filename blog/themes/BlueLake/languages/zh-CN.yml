@@ -4,14 +4,14 @@ categories: 分类
 tags: 标签
 archive: 归档
 links: 链接
-about: 关于
+about: 关于博主
 recent: 最新文章
 next: 下一页
 previous: 上一页
 notitle: 无题
 blogroll: 友情链接
 history: 历史
-rss: 订阅
+rss: 订阅本站
 hits: 点击
 guestbook: 留言
 participate: 参与
@@ -23,3 +23,5 @@ contents: 文章目录
 shareto: 分享到
 reading_before: 正在查看
 reading_after: 下的文章
+baidusitemap: 本站地图
+search: 输入要搜索的关键字
